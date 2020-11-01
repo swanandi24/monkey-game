@@ -1,2 +1,2 @@
 # monkey-game
-Game made b me
+Game made by me
